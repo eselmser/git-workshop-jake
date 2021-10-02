@@ -7,6 +7,7 @@ int main(void)
 
 	// edited hello.c to not bleed into our terminal
 	printf("Hola  world!\n");
+	printf("You can't see my secrets!");
 
 	return 0;
 }
