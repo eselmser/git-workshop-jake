@@ -6,7 +6,7 @@ int main(void)
 	// modified to save
 
 	// edited hello.c to not bleed into our terminal
-	printf("Hola  branch nueva!\n");
+	printf("Hola branch nueva!\n");
 
 	return 0;
 }
